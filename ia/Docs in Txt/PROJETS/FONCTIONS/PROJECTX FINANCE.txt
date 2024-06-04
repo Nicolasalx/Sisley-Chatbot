@@ -1,0 +1,291 @@
+Marc André, Directeur Financier, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Forecast Future" 
+
+Description : Création d'un modèle prévisionnel financier avancé pour améliorer les prévisions de flux de trésorerie et de revenus. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 01/11/2023 
+
+Budget : 40 000 € 
+
+Référent : Marc André 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Integrated Financial System" 
+
+Description : Collaboration avec la DSI pour développer et mettre en œuvre un système financier intégré améliorant l'efficacité et la précision. 
+
+Personnes impliquées : Marc André (Finance), Éric Morel (DSI) 
+
+ 
+
+ 
+
+ 
+
+Léa Fontaine, Contrôleur de Gestion, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Budget Beacon" 
+
+Description : Développement d'une application interactive pour une gestion budgétaire et un suivi en temps réel pour tous les départements. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 30/06/2024 
+
+Budget : 25 000 € 
+
+Référent : Léa Fontaine 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Budget Communication Strategy" 
+
+Description : Travail en partenariat avec le département Presse/Communication pour créer une communication transparente et efficace autour des budgets et des finances. 
+
+Personnes impliquées : Léa Fontaine (Finance), Béatrice Lemoine (Presse/Communication) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Julien Petit, Analyste Financier, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Invest Insight" 
+
+Description : Analyse approfondie des opportunités d'investissement pour maximiser les rendements à long terme de Sisley. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 15 000 € 
+
+Référent : Julien Petit 
+
+ 
+
+ 
+
+Chloé Bernard, Responsable Comptable, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Compliance Core" 
+
+Description : Renforcement des processus de conformité comptable pour répondre aux normes internationales et réduire les risques. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 31/01/2024 
+
+Budget : 18 000 € 
+
+Référent : Chloé Bernard 
+
+ 
+
+ 
+
+Nicolas Girard, Trésorier, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Cash Flow Catalyst" 
+
+Description : Optimisation de la gestion de la trésorerie pour améliorer la liquidité et réduire les coûts financiers. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 28/02/2024 
+
+Budget : 20 000 € 
+
+Référent : Nicolas Girard 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Employee Investment Program" 
+
+Description : Initiative interfonctionnelle pour développer un programme d'investissement pour les employés, en collaboration avec les RH. 
+
+Personnes impliquées : Nicolas Girard (Finance), Jean Dupont (RH) 
+
+ 
+
+ 
+
+ 
+
+Émilie Leclerc, Risk Manager, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Risk Radar" 
+
+Description : Mise en place d'un système d'alerte précoce pour identifier et atténuer les risques financiers émergents. 
+
+Date de début : 01/10/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 22 000 € 
+
+Référent : Émilie Leclerc 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Risk and Tech Synergy" 
+
+Description : Collaboration avec la DSI pour intégrer des solutions technologiques avancées dans la gestion des risques financiers. 
+
+Personnes impliquées : Émilie Leclerc (Finance), Julien Vasseur (DSI) 
+
+ 
+
+ 
+
+ 
+
+Laura Moreau, Fiscaliste, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Tax Strategy Streamline" 
+
+Description : Élaboration de stratégies fiscales optimisées pour réduire la charge fiscale tout en assurant la conformité. 
+
+Date de début : 01/11/2023 
+
+Date de fin : 30/11/2024 
+
+Budget : 30 000 € 
+
+Référent : Laura Moreau 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Tax Training Initiative" 
+
+Description : Travailler avec le département RH pour développer un programme de formation fiscale pour les employés de Sisley. 
+
+Personnes impliquées : Laura Moreau (Finance), Lucas Bernard (RH) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Romain Dupuis, Auditeur Interne, Finance 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Internal Audit Innovation" 
+
+Description : Amélioration des processus d'audit interne en intégrant de nouvelles technologies et méthodologies. 
+
+Date de début : 01/12/2023 
+
+Date de fin : 30/06/2024 
+
+Budget : 15 000 € 
+
+Référent : Romain Dupuis 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Compliance Communication Protocol" 
+
+Description : Établir un protocole de communication en matière de conformité en collaboration avec le département Presse/Communication. 
+
+Personnes impliquées : Romain Dupuis (Finance), Chloé Bernard (Presse/Communication) 
+
+ 

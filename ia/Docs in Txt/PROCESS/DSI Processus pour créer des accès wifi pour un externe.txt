@@ -1,0 +1,71 @@
+Processus pour créer des accès wifi pour un externe : 
+
+ 
+
+Étape 1 : Vérification des Requis 
+
+Avant de créer des accès wifi pour un externe chez Sisley, il est important de vérifier les requis. Assurez-vous d'avoir les informations suivantes : 
+
+ 
+
+- Le nom de l'externe qui aura besoin d'un accès wifi. 
+
+- La durée pendant laquelle l'externe aura besoin de l'accès wifi. 
+
+ 
+
+Étape 2 : Remplir le Formulaire de Demande d'Accès Wifi 
+
+Afin de créer des accès wifi pour un externe, il est nécessaire de remplir le formulaire de demande d'accès wifi. Ce formulaire peut être obtenu auprès du département des systèmes d'information (DSI) ou via l'intranet de l'entreprise. 
+
+ 
+
+Assurez-vous de fournir les informations suivantes dans le formulaire de demande : 
+
+ 
+
+- Les coordonnées de l'externe, y compris son nom complet, son adresse e-mail et son numéro de téléphone. 
+
+- La durée pendant laquelle l'externe aura besoin de l'accès wifi. 
+
+- Le département ou le projet pour lequel l'externe travaillera. 
+
+- Toute autre information pertinente concernant la demande d'accès wifi. 
+
+ 
+
+Étape 3 : Soumettre la Demande à la DSI 
+
+Une fois le formulaire de demande d'accès wifi dûment rempli, soumettez-le au département des systèmes d'information (DSI). Vous pouvez le remettre en personne ou l'envoyer par e-mail à l'adresse spécifiée sur le formulaire. 
+
+ 
+
+Étape 4 : Vérification et Approbation de la Demande 
+
+La DSI examinera la demande d'accès wifi et vérifiera sa faisabilité. Des vérifications supplémentaires peuvent être nécessaires pour garantir la sécurité du réseau. Une fois la demande approuvée, vous serez informé par la DSI. 
+
+ 
+
+Étape 5 : Création des Accès Wifi 
+
+Une fois la demande approuvée, la DSI procédera à la création des accès wifi pour l'externe. Cela peut inclure la génération d'identifiants et de mots de passe uniques pour l'accès au réseau wifi de Sisley. 
+
+ 
+
+Étape 6 : Communication des Informations à l'Externe 
+
+Une fois les accès wifi créés, la DSI communiquera les informations pertinentes à l'externe. Cela peut inclure les identifiants de connexion wifi, les instructions d'utilisation et les politiques de sécurité à suivre. 
+
+ 
+
+Étape 7 : Suivi et Maintenance 
+
+La DSI assurera également le suivi et la maintenance des accès wifi créés pour les externes. Ils seront disponibles pour répondre à toutes les questions ou problèmes liés aux accès wifi. 
+
+ 
+
+Veuillez noter que ce processus peut être sujet à des changements. Il est recommandé de vérifier régulièrement les mises à jour de la politique d'accès wifi chez Sisley. En cas de circonstances exceptionnelles ou d'urgences, des procédures accélérées peuvent être disponibles, à discuter avec la DSI. 
+
+ 
+
+Pour plus d'informations ou d'assistance supplémentaire, veuillez contacter le département des systèmes d'information (DSI) de Sisley. 

@@ -1,0 +1,59 @@
+Guide de Partage d'un Drive avec un Partenaire Externe 
+
+Introduction : 
+
+Ce guide détaille le processus pour partager un drive avec un partenaire externe, facilitant la collaboration et l'échange d'informations en toute sécurité. Suivez attentivement les étapes ci-dessous pour assurer un partage efficace et contrôlé. 
+
+Connexion au Compte : 
+
+Connectez-vous au compte Google associé 
+
+Création du Dossier (si nécessaire) : 
+
+Si vous n'avez pas encore créé le dossier à partager, créez-en un en cliquant sur "Nouveau" puis "Dossier". 
+
+Ajout de Contenu au Dossier (si nécessaire) : 
+
+Ajoutez les fichiers et documents nécessaires au dossier que vous souhaitez partager. 
+
+Configuration des Autorisations : 
+
+Cliquez avec le bouton droit sur le dossier que vous souhaitez partager. 
+
+Sélectionnez "Partager" dans le menu contextuel. 
+
+Ajout du Partenaire Externe : 
+
+Saisissez l'adresse e-mail du partenaire externe dans la zone de partage. 
+
+Définissez le niveau d'accès approprié (Afficher, Modifier, Commenter) en fonction des besoins. 
+
+Génération du Lien de Partage (si nécessaire) : 
+
+Si vous préférez partager via un lien, cliquez sur "Obtenir le lien de partage" et configurez les paramètres d'accès. 
+
+Communication du Lien ou des Invitations : 
+
+Envoyez le lien de partage ou les invitations directement au partenaire externe via un e-mail sécurisé. 
+
+Gestion des Autorisations : 
+
+Assurez-vous de réviser et de gérer les autorisations régulièrement, en révoquant l'accès lorsque la collaboration est terminée. 
+
+Suivi des Modifications : 
+
+Utilisez la fonction "Historique des modifications" pour suivre les modifications apportées aux fichiers dans le dossier partagé. 
+
+Communication Continue : 
+
+Maintenez une communication continue avec le partenaire externe pour garantir une collaboration fluide et résoudre tout problème éventuel. 
+
+Notes Complémentaires : 
+
+Assurez-vous de respecter les politiques de sécurité de l'entreprise en matière de partage externe. 
+
+Sensibilisez le partenaire externe à la confidentialité des données et encouragez la sécurité des informations partagées. 
+
+En suivant ces étapes, vous faciliterez une collaboration efficace avec vos partenaires externes tout en assurant la sécurité et la confidentialité des informations partagées. 
+
+ 

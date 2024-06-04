@@ -1,0 +1,51 @@
+ 
+
+Guide d'Accès au Réseau à Distance via VPN 
+
+Introduction : 
+
+Ce guide détaille le processus d'accès au réseau de l'entreprise Sisley à distance via VPN (Réseau Privé Virtuel). Assurez-vous de suivre ces étapes avec précaution pour garantir une connexion sécurisée. 
+
+Installation du Logiciel VPN : 
+
+Si vous n'avez pas encore installé le logiciel VPN fourni par l'entreprise, téléchargez-le à partir de la source officielle ou contactez le service informatique pour obtenir les instructions d'installation. 
+
+Configuration du Logiciel VPN : 
+
+Ouvrez le logiciel VPN et configurez les paramètres selon les instructions fournies par le service informatique. 
+
+Saisissez votre nom d'utilisateur et votre mot de passe lorsque cela est requis. 
+
+Sélection du Serveur VPN : 
+
+Choisissez le serveur VPN auquel vous souhaitez vous connecter. Il s'agit généralement du serveur spécifié par l'entreprise pour un accès sécurisé. 
+
+Connexion au VPN : 
+
+Cliquez sur le bouton de connexion pour établir la connexion au réseau VPN. Attendez que la connexion soit établie avec succès. 
+
+Vérification de la Connexion : 
+
+Une fois connecté, vérifiez que vous avez accès aux ressources internes telles que les fichiers partagés, les applications d'entreprise, etc. 
+
+Utilisation des Ressources à Distance : 
+
+Accédez aux fichiers et aux applications comme si vous étiez physiquement dans le bureau. Assurez-vous de respecter les politiques de sécurité et d'utilisation des données. 
+
+Déconnexion du VPN : 
+
+Lorsque vous avez terminé, déconnectez-vous du VPN pour sécuriser la connexion. Certains logiciels VPN offrent une déconnexion automatique après une période d'inactivité. 
+
+Assistance Technique : 
+
+En cas de problèmes de connexion ou de questions, contactez le support technique de l'entreprise en fournissant des détails sur le problème rencontré. 
+
+Notes Complémentaires : 
+
+Respectez les politiques de sécurité de l'entreprise en matière d'utilisation du VPN, y compris les règles d'accès et de confidentialité des données. 
+
+Gardez le logiciel VPN à jour en installant les mises à jour recommandées. 
+
+En suivant ces étapes, vous pourrez accéder au réseau de l'entreprise Sisley à distance de manière sécurisée via le VPN. Veillez à utiliser cette connexion de manière responsable et conforme aux politiques de sécurité en vigueur. 
+
+ 

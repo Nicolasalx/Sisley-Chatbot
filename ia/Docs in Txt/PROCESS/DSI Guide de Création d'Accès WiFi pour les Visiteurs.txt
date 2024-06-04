@@ -1,0 +1,55 @@
+ 
+
+Guide de Création d'Accès WiFi pour les Visiteurs 
+
+Introduction : 
+
+Ce document fournit un guide détaillé sur le processus de création d'accès WiFi pour les visiteurs au sein de l'entreprise Sisley, géré par la Direction des Systèmes d'Information (DSI). 
+
+Demande d'Accès WiFi Externe : 
+
+Les demandes d'accès WiFi pour les visiteurs doivent être soumises au moins 7 jours avant la date prévue. 
+
+Utilisez le formulaire de demande d'accès WiFi externe disponible sur le portail interne de l'entreprise. 
+
+Informations Requises : 
+
+Remplissez le formulaire avec les informations nécessaires, y compris le nom du visiteur, la date de la visite, et la raison de la demande. 
+
+Si disponible, fournissez les détails du matériel (ordinateur portable, smartphone) du visiteur. 
+
+Approbation par le Responsable de Sécurité Informatique : 
+
+Le responsable de la sécurité informatique examinera chaque demande pour s'assurer de la conformité aux politiques de sécurité. 
+
+Les demandes peuvent être approuvées, rejetées, ou nécessiter des ajustements. 
+
+Création des Identifiants Temporaires : 
+
+Une fois approuvée, la DSI générera des identifiants temporaires pour l'accès WiFi du visiteur. 
+
+Ces identifiants seront envoyés au demandeur par e-mail ou peuvent être retirés au bureau de la DSI. 
+
+Instructions d'Utilisation : 
+
+Les visiteurs recevront des instructions claires sur la manière d'utiliser les identifiants temporaires pour se connecter au réseau WiFi. 
+
+Les instructions seront également affichées dans les zones d'accueil ou de réception. 
+
+Durée de Validité : 
+
+Les identifiants temporaires auront une durée de validité de 24 heures pour des raisons de sécurité. 
+
+Veillez à ce que les visiteurs soient informés de la période pendant laquelle leurs identifiants seront valides. 
+
+Assistance Technique : 
+
+En cas de problèmes de connexion ou de questions, le support technique de la DSI est disponible via le numéro [insérer le numéro de contact]. 
+
+Notes Complémentaires : 
+
+La création d'accès WiFi externe est sujette à la politique de sécurité informatique en vigueur. Consultez régulièrement les mises à jour de la politique. 
+
+En cas de visiteurs fréquents, envisagez des arrangements pour des identifiants récurrents après une procédure de vérification initiale. 
+
+Nous espérons que ce guide facilitera le processus de création d'accès WiFi pour les visiteurs. Pour des demandes spécifiques ou des circonstances exceptionnelles, veuillez contacter la DSI. 

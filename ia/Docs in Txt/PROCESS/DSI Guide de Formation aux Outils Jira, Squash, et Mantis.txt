@@ -1,0 +1,63 @@
+Guide de Formation aux Outils Jira, Squash, et Mantis 
+
+Introduction : 
+
+Ce document présente le processus de formation pour les employés de Sisley souhaitant acquérir des compétences dans l'utilisation des outils Jira, Squash, et Mantis. Ces outils sont essentiels pour optimiser la gestion de projet, le suivi des anomalies, et le contrôle de la qualité. 
+
+Identification du Besoin de Formation : 
+
+Avant de commencer, identifiez le besoin spécifique de formation en fonction de votre rôle au sein de l'entreprise. 
+
+Discutez avec votre responsable ou le département des ressources humaines pour déterminer les compétences requises. 
+
+Accès aux Ressources de Formation : 
+
+Consultez la bibliothèque de ressources de formation sur l'intranet de l'entreprise. 
+
+Trouvez des tutoriels, guides, et vidéos dédiés à Jira, Squash, et Mantis. 
+
+Formation en Ligne : 
+
+Explorez les plateformes de formation en ligne telles que [insérer les noms des plateformes disponibles] qui offrent des cours spécialisés sur ces outils. 
+
+Inscrivez-vous à des cours adaptés à votre niveau de compétence. 
+
+Sessions de Formation Interne : 
+
+Le département de la formation organise régulièrement des sessions internes sur l'utilisation efficace de ces outils. 
+
+Consultez le calendrier de formation interne pour vous inscrire à des sessions pertinentes. 
+
+Formation en Présentiel : 
+
+En fonction de la disponibilité, des formations en présentiel peuvent être organisées par des experts internes ou externes. 
+
+Ces sessions offrent une opportunité d'interaction directe et de résolution de questions spécifiques. 
+
+Pratique et Projets Simulés : 
+
+Mettez en pratique vos connaissances en utilisant des projets simulés. 
+
+Créez des projets factices pour vous entraîner à l'utilisation de Jira, Squash, et Mantis dans des scénarios réels. 
+
+Collaboration avec les Experts : 
+
+Identifiez les experts internes dans l'utilisation de ces outils. 
+
+Demandez des conseils et des astuces pour optimiser votre utilisation au quotidien. 
+
+Certifications (en option) : 
+
+Si nécessaire, envisagez de passer des certifications officielles pour valider vos compétences. 
+
+Ces certifications peuvent être bénéfiques pour votre développement professionnel. 
+
+Notes Complémentaires : 
+
+La formation est un processus continu. Restez informé des mises à jour des outils et des nouvelles fonctionnalités. 
+
+Rejoignez des forums internes dédiés à ces outils pour partager vos expériences et apprendre des meilleures pratiques de vos collègues. 
+
+Nous espérons que ce guide vous aidera à acquérir les compétences nécessaires dans l'utilisation de Jira, Squash, et Mantis. Pour des besoins de formation spécifiques, n'hésitez pas à contacter le département de la formation. 
+
+ 

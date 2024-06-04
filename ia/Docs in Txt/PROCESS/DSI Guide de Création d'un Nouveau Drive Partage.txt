@@ -1,0 +1,55 @@
+Guide de Création d'un Nouveau Drive Partagé 
+
+Introduction : 
+
+Ce guide détaille le processus pour créer un nouveau drive partagé, facilitant la collaboration et le partage d'informations au sein de l'équipe Sisley. Suivez attentivement les étapes ci-dessous pour assurer la mise en place correcte du drive partagé. 
+
+Identification des Besoins : 
+
+Déterminez le but du drive partagé, les utilisateurs qui y auront accès et les autorisations requises. 
+
+Connexion au Compte : 
+
+Connectez-vous au compte associé à la plateforme de stockage partagé. 
+
+Création du Nouveau Drive : 
+
+Cherchez l'option de création de dossier ou de drive sur la plateforme et sélectionnez "Nouveau Drive" ou "Nouveau Dossier". 
+
+Nom du Drive : 
+
+Attribuez un nom significatif au drive partagé, reflétant clairement son objectif et son contenu. 
+
+Structure du Drive : 
+
+Définissez une structure de dossiers logique pour organiser le contenu du drive partagé. Par exemple, créez des dossiers pour chaque projet, département ou catégorie. 
+
+Gestion des Autorisations : 
+
+Configurez les autorisations d'accès en définissant qui peut afficher, modifier ou supprimer des fichiers. 
+
+Invitez les membres de l'équipe à rejoindre le drive partagé en utilisant leurs adresses e-mail. 
+
+Personnalisation des Paramètres : 
+
+Explorez les paramètres avancés pour personnaliser les fonctionnalités du drive, tels que la possibilité de synchroniser automatiquement avec les appareils locaux. 
+
+Formation de l'Équipe : 
+
+Informez les membres de l'équipe sur l'existence du nouveau drive partagé et fournissez des instructions sur son utilisation. 
+
+Communication Continue : 
+
+Assurez une communication continue sur l'utilisation et les mises à jour du drive partagé. Encouragez la collaboration et la contribution de tous les membres. 
+
+ 
+
+Notes Complémentaires : 
+
+En cas de questions ou de problèmes techniques, le support technique de la plateforme de stockage partagé est disponible pour assistance. 
+
+Pensez à mettre en place des sauvegardes régulières pour éviter la perte accidentelle de données. 
+
+En suivant ces étapes, vous créerez un nouvel espace de collaboration efficace pour l'équipe Sisley. La collaboration transparente et la gestion organisée des fichiers contribueront à l'efficacité globale de l'équipe. 
+
+ 

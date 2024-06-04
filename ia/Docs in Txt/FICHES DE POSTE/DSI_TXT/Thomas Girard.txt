@@ -1,0 +1,28 @@
+Thomas Girard
+Ingénieur Systèmes
+DSI
+
+ANCIENNETÉ
+
+9 ans
+
+EXPÉRIENCE
+
+Ingénieur en systèmes d'information
+
+DESCRIPTION DU POSTE
+Gestion des serveurs, virtualisation, sauvegardes
+
+PROJETS PRINCIPAUX
+Virtualisation des serveurs, plan de reprise d'activité
+
+COMPÉTENCES & EXPERTISE
+Systèmes Linux et Windows, virtualisation, cloud computing
+
+ÉQUIPE
+Administrateurs systèmes, spécialistes en stockage
+
+OUTILS & RESSOURCES
+VMWare, Hyper-V, backup solutions
+
+

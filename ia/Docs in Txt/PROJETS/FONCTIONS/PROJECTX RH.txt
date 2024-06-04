@@ -1,0 +1,331 @@
+Jean Dupont, Responsable Recrutement, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "FastTrack Recruiting" 
+
+Description : Optimisation du processus de recrutement pour réduire le temps entre la première candidature et l'embauche. 
+
+Date de début : 01/03/2023 
+
+Date de fin : 30/09/2023 
+
+Budget : 15 000 € 
+
+Référent : Jean Dupont 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Talent Pool Expansion" 
+
+Description : Créer une réserve de talents diversifiée en collaboration avec les départements Marketing et Communication pour améliorer la marque employeur. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 25 000 € 
+
+Référents : Jean Dupont, Alice Dubois (RH), Damien Forest (Marketing) 
+
+ 
+
+ 
+
+Claire Martin, Gestionnaire de Paie, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "PayRight" 
+
+Description : Mise en place d'un nouveau système de gestion de paie pour améliorer l'exactitude et la conformité. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 01/11/2023 
+
+Budget : 10 000 € 
+
+Référent : Claire Martin 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Financial Wellness" 
+
+Description : Développer un programme d'éducation financière pour les employés en collaboration avec le département Finance. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 8 000 € 
+
+Référents : Claire Martin (RH), Marc André (Finance) 
+
+ 
+
+ 
+
+ 
+
+Lucas Bernard, Spécialiste Formation et Développement, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Leadership Leap" 
+
+Description : Programme de développement du leadership pour préparer les futurs leaders de Sisley. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/10/2023 
+
+Budget : 20 000 € 
+
+Référent : Lucas Bernard 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Cross-Functional Training" 
+
+Description : Conception de modules de formation interfonctionnels pour favoriser une meilleure compréhension et collaboration entre les départements. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 18 000 € 
+
+Référents : Lucas Bernard (RH), Éric Morel (DSI) 
+
+ 
+
+ 
+
+Sarah Lefebvre, Responsable des Relations Sociales, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Harmony Hub" 
+
+Description : Initiative pour renforcer le dialogue social et prévenir les conflits au sein de l'entreprise. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 01/12/2023 
+
+Budget : 12 000 € 
+
+Référent : Sarah Lefebvre 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Diversity Dialogues" 
+
+Description : Série de tables rondes et d'ateliers sur la diversité et l'inclusion en partenariat avec Omar Diop et le département Communication. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 30/06/2024 
+
+Budget : 15 000 € 
+
+Référents : Sarah Lefebvre (RH), Omar Diop (RH), Béatrice Lemoine (Communication) 
+
+ 
+
+ 
+
+ 
+
+Omar Diop, Chargé de Diversité et Inclusion, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Inclusion Initiative" 
+
+Description : Développement et mise en œuvre d'une stratégie globale pour promouvoir la diversité et l'inclusion chez Sisley. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/07/2024 
+
+Budget : 30 000 € 
+
+Référent : Omar Diop 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Diversity Dialogues" (Voir le projet collaboratif de Sarah Lefebvre pour les détails) 
+
+ 
+
+ 
+
+Sophie Renaud, Conseillère en Organisation, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Efficiency Boost" 
+
+Description : Analyse et réingénierie des processus RH pour améliorer l'efficacité opérationnelle. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 30/11/2023 
+
+Budget : 15 000 € 
+
+Référent : Sophie Renaud 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Agile Adoption" 
+
+Description : Promouvoir et faciliter l'adoption de méthodologies agiles dans différents départements de Sisley. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 28/02/2024 
+
+Budget : 20 000 € 
+
+Référents : Sophie Renaud (RH), Julien Vasseur (DSI) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thomas Leroy, Coordinateur Bien-être au Travail, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Wellness at Work" 
+
+Description : Mise en place de programmes centrés sur le bien-être mental et physique des employés au travail. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 10 000 € 
+
+Référent : Thomas Leroy 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Health Matters" 
+
+Description : Campagne de sensibilisation à la santé en collaboration avec le département de la Santé et Sécurité. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 12 000 € 
+
+Référents : Thomas Leroy (RH), Laura Moreau (Santé et Sécurité) 
+
+ 
+
+ 
+
+Alice Dubois, Spécialiste en Acquisition de Talents, RH 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Brand Ambassadors" 
+
+Description : Création d'un programme d'ambassadeurs de marque pour attirer des talents de haut niveau. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/10/2023 
+
+Budget : 20 000 € 
+
+Référent : Alice Dubois 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Talent Pool Expansion" (Voir le projet collaboratif de Jean Dupont pour les détails) 
+
+ 

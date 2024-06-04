@@ -1,0 +1,145 @@
+Processus de Prise en Charge d'une Facture d'un Fournisseur chez Sisley 
+
+ 
+
+Introduction : 
+
+La prise en charge d'une facture de fournisseur existant nécessite une procédure structurée pour assurer une gestion financière efficace. Suivez ces étapes chez Sisley : 
+
+ 
+
+Fournisseur existant 
+
+ 
+
+1. Réception de la Facture : 
+
+    Dès réception de la facture du fournisseur, assurez vous qu'elle est complète, correcte, et conforme aux termes convenus. 
+
+ 
+
+2. Vérification des Détails : 
+
+    Examinez attentivement les détails de la facture, y compris les montants, les produits ou services fournis, et les conditions de paiement. 
+
+ 
+
+3. Référence au Bon de Commande : 
+
+    Vérifiez que la facture correspond à un bon de commande existant, le cas échéant. Assurez-vous que les biens ou services ont été commandés conformément aux accords établis. 
+
+ 
+
+4. Validation par le Service Requis : 
+
+    Transmettez la facture au service ou département concerné pour validation. Assurez-vous que les biens ou services ont été correctement reçus et acceptés. 
+
+ 
+
+5. Approbation du Responsable : 
+
+    Obtenir l'approbation du responsable du département ou de la personne autorisée à prendre en charge les dépenses associées à la facture. 
+
+ 
+
+6. Enregistrement dans le Système : 
+
+    Saisissez les détails de la facture dans le système comptable de l'entreprise. Ceci inclut la création d'une entrée de facture avec les informations nécessaires. 
+
+ 
+
+7. Contrôle des Conditions de Paiement : 
+
+    Vérifiez les conditions de paiement convenues avec le fournisseur. Respectez les délais de paiement stipulés pour éviter tout retard. 
+
+ 
+
+8. Autorisation de Paiement : 
+
+    Une fois les vérifications effectuées et les approbations obtenues, autorisez le paiement de la facture dans le système comptable. 
+
+ 
+
+9. Transmission au Service Financier : 
+
+    Transmettez les informations sur la facture approuvée au service financier de l'entreprise pour traitement. Assurez-vous de suivre les procédures internes établies. 
+
+ 
+
+10. Archivage de la Documentation : 
+
+     Archivez la documentation associée à la facture, y compris les approbations, les bons de commande, et toute correspondance pertinente. 
+
+ 
+
+11. Suivi des Paiements : 
+
+     Suivez le statut du paiement. En cas de retards ou de problèmes, communiquez avec le service financier pour des clarifications. 
+
+ 
+
+12. Rapports Réguliers : 
+
+     Fournissez des rapports réguliers au service financier sur les dépenses engagées et les paiements effectués pour une transparence et une gestion efficaces. 
+
+ 
+
+ 
+
+Nouveaux fourniseur 
+
+ 
+
+Introduction 
+
+Pour gérer les factures de nouveaux fournisseurs, le processus est similaire à celui des fournisseurs existants, mais avec quelques ajouts pour tenir compte de l'absence d'historique de transactions précédentes. Voici comment vous pouvez le faire : 
+
+ 
+
+1. Vérification des Détails du Nouveau Fournisseur : 
+
+Avant de recevoir et traiter la facture, vérifiez les détails du nouveau fournisseur. Assurez-vous que le fournisseur est légitime et fiable. Cela peut inclure la vérification de leur numéro d'identification fiscale, de leur histoire commerciale et de leurs références. 
+
+ 
+
+2. Création d'un Bon de Commande : 
+
+Étant donné que vous n'avez pas encore de bon de commande pour ce fournisseur, vous devrez en créer un lors de la réception de la facture. Cette étape est importante pour garder une trace de ce qui a été commandé et payé. 
+
+ 
+
+3. Validation par le Service Requis : 
+
+Comme pour les fournisseurs existants, la facture doit être validée par le service ou le département concerné. Cependant, étant donné que vous travaillez avec un nouveau fournisseur, il peut être nécessaire d'impliquer davantage de personnes dans ce processus pour s'assurer que la facture est correcte. 
+
+ 
+
+4. Approbation du Responsable : 
+
+L'approbation du responsable est également nécessaire. Cependant, étant donné que vous travaillez avec un nouveau fournisseur, il peut être nécessaire de demander une approbation supplémentaire de la part du chef d'entreprise ou du directeur financier. 
+
+ 
+
+5. Enregistrement dans le Système : 
+
+Lors de l'enregistrement de la facture dans le système comptable, assurez-vous d'inclure tous les détails pertinents sur le nouveau fournisseur. Cela peut inclure les coordonnées du fournisseur, les détails de la transaction et toute autre information pertinente. 
+
+ 
+
+6. Contrôle des Conditions de Paiement : 
+
+Comme pour les fournisseurs existants, vérifiez les conditions de paiement avec le nouveau fournisseur. Assurez-vous de suivre les délais de paiement stipulés pour éviter tout retard. 
+
+ 
+
+7. Archivage de la Documentation: 
+
+Avec les nouveaux fournisseurs, il peut être particulièrement important de bien archiver la documentation. Cela peut inclure le bon de commande, la facture, et toute correspondance avec le fournisseur. 
+
+ 
+
+ 
+
+En suivant ces étapes, la prise en charge d'une facture de fournisseur existant chez Sisley sera effectuée de manière méthodique, garantissant la conformité aux politiques internes et une gestion financière efficace. 
+
+ 

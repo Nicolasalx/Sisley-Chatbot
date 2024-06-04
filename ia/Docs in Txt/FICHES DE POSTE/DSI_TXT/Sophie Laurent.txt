@@ -1,0 +1,28 @@
+Sophie Laurent
+Architecte de Données
+DSI
+
+ANCIENNETÉ
+
+12 ans
+
+EXPÉRIENCE
+
+Diplôme en science des données
+
+DESCRIPTION DU POSTE
+Conception de modèles de données, stratégie de gestion des données
+
+PROJETS PRINCIPAUX
+Data warehouse, intégration de données Big Data
+
+COMPÉTENCES & EXPERTISE
+Modélisation, SQL, systèmes de gestion de bases de données
+
+ÉQUIPE
+Data scientists, DBAs
+
+OUTILS & RESSOURCES
+SQL Server, Oracle, Hadoop ecosystem
+
+

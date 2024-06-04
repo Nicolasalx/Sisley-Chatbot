@@ -1,0 +1,46 @@
+Présentation des différents logiciels utilisés 
+
+ 
+
+ 
+1. Yoobic est une application utilisée par Sisley pour faciliter la communication, la coordination et la gestion des projets au sein de l'équipe DSI. Elle permet aux membres de l'équipe de collaborer efficacement, d'organiser et de suivre les tâches, et de partager des informations importantes. L'application permet également aux utilisateurs de recevoir des notifications en temps réel, de prendre des décisions rapides et d'accéder à des données et des ressources clés. 
+
+ 
+
+2. Sisl'RH: Il s'agit d'une application de gestion des ressources humaines utilisée pour traiter les demandes de congés, suivre les présences, gérer les informations sur les employés, etc. Les employés peuvent l'utiliser pour soumettre des demandes de congés conformément aux étapes décrites dans le guide de demande de congés. 
+
+ 
+
+3. My Sisley: Il s'agit d'une application mobile destinée aux employés de Sisley pour accéder à diverses informations et services, tels que les actualités de l'entreprise, les ressources RH, les formations, etc. 
+
+ 
+
+4. Book and Go: Il s'agit d'une application utilisée pour gérer les réservations de salles de réunion, de matériel de bureau, de véhicules de société, etc. 
+
+ 
+
+5. Foederis : Il s'agit d'une application de gestion de projet utilisée pour suivre et coordonner les projets au sein de l'entreprise. 
+
+ 
+
+6. SISCOM : Il s'agit d'une application de communication interne utilisée pour diffuser des informations importantes à l'ensemble de l'entreprise. 
+
+ 
+
+7. E-report: Il s'agit d'une application utilisée pour soumettre des rapports d'incident ou des problèmes techniques rencontrés sur les différents systèmes informatiques de l'entreprise. 
+
+ 
+
+8. Booker: Il s'agit d'une application utilisée pour gérer les réservations de voyages d'affaires, y compris les vols, les hôtels, les locations de voitures, etc. 
+
+ 
+
+9. STAR: Il s'agit d'une application utilisée par le service technique pour suivre et résoudre les problèmes techniques signalés par les utilisateurs finaux. 
+
+ 
+
+10. SMILE: Il s'agit d'une application utilisée pour collecter les commentaires et les suggestions des employés, afin d'améliorer les processus et les services de l'entreprise. 
+
+ 
+
+Ces applications sont toutes conçues pour améliorer l'efficacité, la communication et la gestion des différentes activités au sein de l'entreprise, et contribuent ainsi à faciliter le travail au quotidien des employés de Sisley. 

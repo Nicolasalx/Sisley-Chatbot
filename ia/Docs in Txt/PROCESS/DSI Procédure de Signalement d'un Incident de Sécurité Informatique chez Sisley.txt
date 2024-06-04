@@ -1,0 +1,45 @@
+Procédure de Signalement d'un Incident de Sécurité Informatique chez Sisley 
+
+La sécurité informatique est une priorité chez Sisley. Si vous suspectez ou rencontrez un incident de sécurité informatique, suivez ces étapes pour signaler l'incident rapidement et aider notre équipe de sécurité à prendre des mesures appropriées. 
+
+1. Identification de l'Incident : 
+
+Si vous observez une activité suspecte, une violation de la sécurité ou rencontrez des problèmes inhabituels, prenez note des détails spécifiques de l'incident. 
+
+2. Arrêt des Activités Suspectes (si possible) : 
+
+Si vous êtes en mesure d'arrêter les activités suspectes sans compromettre davantage la sécurité, prenez des mesures pour le faire. 
+
+3. Notification Immédiate à la DSI : 
+
+Contactez immédiatement la Direction des Systèmes d'Information (DSI) pour signaler l'incident. Utilisez le numéro d'urgence dédié ou l'adresse e-mail de signalement d'incidents de sécurité. 
+
+4. Utilisation du Formulaire de Signalement (si disponible) : 
+
+l'entreprise dispose d'un formulaire de signalement d'incident de sécurité, assurez-vous de le remplir avec toutes les informations pertinentes. Cela peut inclure des détails sur la nature de l'incident, les impacts potentiels et les actions déjà prises. 
+
+5. Préparation des Éléments de Preuve : 
+
+Si possible, préparez des éléments de preuve tels que des captures d'écran, des journaux d'activité, ou toute autre information qui pourrait aider à comprendre l'incident. 
+
+6. Respect des Procédures de Confidentialité : 
+
+Veillez à respecter les procédures de confidentialité et à ne pas partager d'informations sensibles avec des parties non autorisées. Le signalement d'incident doit être traité de manière confidentielle. 
+
+7. Collaboration avec l'Équipe de Sécurité : 
+
+Collaborer étroitement avec l'équipe de sécurité informatique pour enquêter sur l'incident, prendre des mesures correctives et prévenir de futures violations. 
+
+8. Formation du Personnel (si nécessaire) : 
+
+Si l'incident est lié à une lacune dans la sécurité liée au comportement des employés, envisagez des sessions de formation pour renforcer la sensibilisation à la sécurité. 
+
+Comment Nous Contacter en Cas d'Incident : 
+
+Numéro de Contact DSI :12 
+
+Adresse E-mail de Signalement d'Incidents : DSISupport@sysley.com 
+
+En signalant rapidement les incidents de sécurité, vous contribuez à maintenir un environnement informatique sûr et à protéger les données de Sisley. 
+
+ 

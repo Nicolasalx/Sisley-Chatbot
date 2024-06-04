@@ -1,0 +1,15 @@
+Le calcul du nombre d'heures pour une journée de travail dépend du nombre d'heures de travail standard par jour dans votre entreprise. Généralement, une journée de travail standard est de 8 heures. Pour calculer la 36ème heure, vous pouvez utiliser la formule suivante : 
+
+Nombre d'heures par semaine / Nombre de jours de travail par semaine = Nombre d'heures par jour 
+
+Par exemple, si une semaine de travail est de 40 heures et il y a 5 jours de travail par semaine, cela donne : 
+
+40 heures / 5 jours = 8 heures par jour 
+
+Maintenant, pour une journée complète d'absence, la 36ème heure serait le cinquième jour de travail complet. Dans le cadre d'une demi-journée d'absence (vendredi matin), la 36ème heure serait la fin du quatrième jour de travail complet (jeudi après-midi). 
+
+Cela signifie que dans le cas d'une journée complète d'absence, la 36ème heure serait la fin de la journée de travail du vendredi. Dans le cas d'une demi-journée d'absence (vendredi matin), la 36ème heure serait la fin de la journée de travail du jeudi. 
+
+Veuillez ajuster ces calculs en fonction des politiques spécifiques de votre entreprise en ce qui concerne le nombre d'heures de travail par jour et par semaine. 
+
+ 

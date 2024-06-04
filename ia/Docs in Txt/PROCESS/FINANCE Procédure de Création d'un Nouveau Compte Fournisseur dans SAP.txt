@@ -1,0 +1,75 @@
+Procédure de Création d'un Nouveau Compte Fournisseur dans SAP 
+
+ 
+
+Introduction : 
+
+Ce guide détaille la procédure à suivre pour créer un nouveau compte fournisseur dans le système SAP de Sisley. Assurez-vous de suivre attentivement chaque étape pour garantir l'exactitude des informations et la conformité aux politiques internes de l'entreprise. 
+
+ 
+
+1. Accès au Module Fournisseur de SAP : 
+
+Connectez-vous à votre compte SAP et accédez au module dédié à la gestion des fournisseurs. Cette section peut être nommée "Fournisseurs" ou "Gestion des Partenaires Commerciaux." 
+
+ 
+
+2. Navigation vers la Création de Compte Fournisseur : 
+
+À l'intérieur du module Fournisseur, recherchez l'option de création de nouveaux fournisseurs. Cela peut être sous l'onglet "Maître des Fournisseurs" ou un équivalent. 
+
+ 
+
+3. Informations de Base du Fournisseur : 
+
+Remplissez les informations de base requises pour le nouveau fournisseur, telles que le nom du fournisseur, l'adresse, le pays, etc. Assurez-vous que ces informations sont précises et à jour. 
+
+ 
+
+4. Détails Bancaires : 
+
+Fournissez les détails bancaires du nouveau fournisseur, y compris le nom de la banque, le numéro de compte, et le code IBAN le cas échéant. Vérifiez que ces informations sont correctes pour faciliter les transactions financières. 
+
+ 
+
+5. Catégorie et Code Fournisseur : 
+
+Attribuez une catégorie appropriée au fournisseur (par exemple, matériaux, services, etc.) et associez un code unique au fournisseur conformément aux conventions internes de codification. 
+
+ 
+
+6. Approbation Interne : 
+
+Avant de finaliser la création, soumettez la demande de création du fournisseur pour approbation interne. Certains systèmes SAP exigent une validation par un responsable avant l'ajout définitif du fournisseur. 
+
+ 
+
+7. Validation de la Création : 
+
+Une fois approuvée, validez la création du fournisseur dans le système. Assurez-vous de confirmer que toutes les informations sont correctes avant de passer à l'étape suivante. 
+
+ 
+
+8. Avis au Fournisseur : 
+
+Informez le nouveau fournisseur de sa création dans le système SAP. Fournissez les informations nécessaires, telles que le numéro de compte, et assurez-vous que le fournisseur est conscient des procédures de facturation. 
+
+ 
+
+9. Suivi et Mises à Jour : 
+
+Surveillez régulièrement les données du fournisseur dans le système. Mettez à jour les informations si nécessaire et veillez à ce que les changements soient enregistrés conformément aux politiques internes. 
+
+ 
+
+Notes Complémentaires : 
+
+Respectez les normes de confidentialité lors de la manipulation des informations fournisseurs. 
+
+Pour toute question ou problème lié à la création de comptes fournisseurs, contactez le département financier ou le support SAP dédié. 
+
+ 
+
+N'oubliez pas d'adapter ces instructions en fonction des spécificités de votre entreprise et des exigences de Sisley. 
+
+ 

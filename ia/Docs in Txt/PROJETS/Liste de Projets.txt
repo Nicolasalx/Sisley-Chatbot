@@ -1,0 +1,469 @@
+1. FastTrack Recruiting 
+
+Description détaillée : Optimisation du processus de recrutement pour réduire le temps entre la première candidature et l'embauche. 
+
+Date de début : 01/03/2023 
+
+Date de fin : 30/09/2023 
+
+Budget : 15 000 € 
+
+Chef du Projet : Jean Dupont 
+
+Personnes impliquées : 0 
+
+2. Talent Pool Expansion 
+
+Description détaillée : Créer une réserve de talents diversifiée en collaboration avec les départements Marketing et Communication pour améliorer la marque employeur. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 25 000 € 
+
+Chef du Projet : Jean Dupont 
+
+Personnes impliquées : Alice Dubois (RH), Damien Forest (Marketing) 
+
+3. PayRight 
+
+Description détaillée : Mise en place d'un nouveau système de gestion de paie pour améliorer l'exactitude et la conformité. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 01/11/2023 
+
+Budget : 10 000 € 
+
+Chef du Projet : Claire Martin 
+
+Personnes impliquées : 0 
+
+4. Financial Wellness 
+
+Description détaillée : Développer un programme d'éducation financière pour les employés en collaboration avec le département Finance. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 8 000 € 
+
+Chef du Projet : Claire Martin 
+
+Personnes impliquées : Marc André (Finance) 
+
+5. Leadership Leap 
+
+Description détaillée : Programme de développement du leadership pour préparer les futurs leaders de Sisley. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/10/2023 
+
+Budget : 20 000 € 
+
+Chef du Projet : Lucas Bernard 
+
+Personnes impliquées : 0 
+
+6. Cross-Functional Training 
+
+Description détaillée : Conception de modules de formation interfonctionnels pour favoriser une meilleure compréhension et collaboration entre les départements. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 18 000 € 
+
+Chef du Projet : Lucas Bernard 
+
+Personnes impliquées : Éric Morel (DSI) 
+
+7. Harmony Hub 
+
+Description détaillée : Initiative pour renforcer le dialogue social et prévenir les conflits au sein de l'entreprise. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 01/12/2023 
+
+Budget : 12 000 € 
+
+Chef du Projet : Sarah Lefebvre 
+
+Personnes impliquées : 0 
+
+8. Diversity Dialogues 
+
+Description détaillée : Série de tables rondes et d'ateliers sur la diversité et l'inclusion en partenariat avec Omar Diop et le département Communication. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 30/06/2024 
+
+Budget : 15 000 € 
+
+Chef du Projet : Sarah Lefebvre 
+
+Personnes impliquées : Omar Diop (RH), Béatrice Lemoine (Presse/Communication) 
+
+9. Inclusion Initiative 
+
+Description détaillée : Développement et mise en œuvre d'une stratégie globale pour promouvoir la diversité et l'inclusion chez Sisley. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/07/2024 
+
+Budget : 30 000 € 
+
+Chef du Projet : Omar Diop 
+
+Personnes impliquées : 0 
+
+10. Efficiency Boost 
+
+Description détaillée : Analyse et réingénierie des processus RH pour améliorer l'efficacité opérationnelle. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 30/11/2023 
+
+Budget : 15 000 € 
+
+Chef du Projet : Sophie Renaud 
+
+Personnes impliquées : 0 
+
+11. Agile Adoption 
+
+Description détaillée : Promouvoir et faciliter l'adoption de méthodologies agiles dans différents départements de Sisley. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 28/02/2024 
+
+Budget : 20 000 € 
+
+Chef du Projet : Sophie Renaud 
+
+Personnes impliquées : Amandine Petit (DSI) 
+
+12. Wellness at Work 
+
+Description détaillée : Mise en place de programmes centrés sur le bien-être mental et physique des employés au travail. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 10 000 € 
+
+Chef du Projet : Thomas Leroy 
+
+Personnes impliquées : 0 
+
+13. Health Matters 
+
+Description détaillée : Campagne de sensibilisation à la santé en collaboration avec le département de la Santé et Sécurité. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 12 000 € 
+
+Chef du Projet : Thomas Leroy 
+
+Personnes impliquées : Laura Moreau (Finance) 
+
+14. Brand Ambassadors 
+
+Description détaillée : Création d'un programme d'ambassadeurs de marque pour attirer des talents de haut niveau. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/10/2023 
+
+Budget : 20 000 € 
+
+Chef du Projet : Alice Dubois 
+
+Personnes impliquées : 0 
+
+15. CloudFirst Strategy 
+
+Description détaillée : Mise en œuvre d'une stratégie cloud-first pour optimiser l'infrastructure IT et favoriser l'innovation. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 50 000 € 
+
+Chef du Projet : Éric Morel 
+
+Personnes impliquées : 0 
+
+16. Integrated Financial System 
+
+Description détaillée : Collaboration avec la Finance pour développer et mettre en œuvre un système financier intégré améliorant l'efficacité et la précision. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 40 000 € 
+
+Chef du Projet : Éric Morel 
+
+Personnes impliquées : Marc André (Finance) 
+
+ 
+
+ 
+
+17. Agile Evolution 
+
+Description détaillée : Transformation des méthodologies de travail de l'équipe IT vers une approche agile pour une meilleure réactivité et collaboration. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 20 000 € 
+
+Chef du Projet : Amandine Petit 
+
+Personnes impliquées : 0 
+
+18. SecureNet Initiative 
+
+Description détaillée : Renforcement de la sécurité réseau de Sisley à travers la mise en œuvre de technologies avancées et de formations. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 30 000 € 
+
+Chef du Projet : Julien Vasseur 
+
+Personnes impliquées : 0 
+
+19. Data Mastery 
+
+Description détaillée : Conception d'un écosystème de données intégré pour améliorer l'accessibilité et la qualité des données à travers l'entreprise. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 25 000 € 
+
+Chef du Projet : Sophie Laurent 
+
+Personnes impliquées : 0 
+
+20. CyberSafe 
+
+Description détaillée : Développement d'un programme complet de sensibilisation à la cybersécurité pour tous les employés de Sisley. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 31/08/2024 
+
+Budget : 15 000 € 
+
+Chef du Projet : Lucas Dubois 
+
+Personnes impliquées : 0 
+
+21. Risk and Tech Synergy 
+
+Description détaillée : Collaboration avec la Finance pour intégrer des solutions technologiques avancées dans la gestion des risques financiers. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 22 000 € 
+
+Chef du Projet : Lucas Dubois 
+
+Personnes impliquées : Émilie Leclerc (Finance) 
+
+22. WebRevamp 
+
+Description détaillée : Redéveloppement et modernisation du site web interne pour améliorer l'expérience utilisateur et l'efficacité. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 18 000 € 
+
+Chef du Projet : Nadia Benoit 
+
+Personnes impliquées : 0 
+
+23. InfraOptimize 
+
+Description détaillée : Optimisation et mise à niveau de l'infrastructure système pour garantir performance et fiabilité. 
+
+Date de début : 01/10/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 20 000 € 
+
+Chef du Projet : Thomas Girard 
+
+Personnes impliquées : 0 
+
+24. HelpDesk Hero 
+
+Description détaillée : Amélioration du système de support IT pour une résolution plus rapide des problèmes et une meilleure satisfaction utilisateur. 
+
+Date de début : 01/11/2023 
+
+Date de fin : 31/10/2024 
+
+Budget : 12 000 € 
+
+Chef du Projet : Chloé Martin 
+
+Personnes impliquées : 0 
+
+25. Brand Evolution 
+
+Description détaillée : Développer une nouvelle stratégie de marque pour renforcer la présence et l'image de Sisley sur le marché global. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 50 000 € 
+
+Chef du Projet : Alexandre Roux 
+
+Personnes impliquées : 0 
+
+26. Media Mastery 
+
+Description détaillée : Créer et entretenir des partenariats stratégiques avec des médias clés pour améliorer la couverture et l'impact des communications de Sisley. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 20 000 € 
+
+Chef du Projet : Béatrice Lemoine 
+
+Personnes impliquées : 0 
+
+27. Digital Dive 
+
+Description détaillée : Lancement d'une campagne numérique innovante pour promouvoir les nouveaux produits de Sisley et engager le public cible. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 30 000 € 
+
+Chef du Projet : David Simon 
+
+Personnes impliquées : 0 
+
+28. Storytelling Sphere 
+
+Description détaillée : Élaboration d'une série d'histoires et de contenus engageants qui reflètent les valeurs et l'histoire de Sisley. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 25 000 € 
+
+Chef du Projet : Élodie Bernard 
+
+Personnes impliquées : 0 
+
+ 
+
+29. Visual Impact 
+
+Description détaillée : Conception d'une campagne visuelle frappante pour le lancement du nouveau produit phare de Sisley. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 31/08/2024 
+
+Budget : 15 000 € 
+
+Chef du Projet : Charlotte Durand 
+
+Personnes impliquées : 0 
+
+30. Social Surge 
+
+Description détaillée : Renforcer la présence de Sisley sur les réseaux sociaux en augmentant l'engagement et en étendant la communauté en ligne. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 18 000 € 
+
+Chef du Projet : Nicolas Fabre 
+
+Personnes impliquées : 0 
+
+31. Press Portal 
+
+Description détaillée : Développement d'un portail en ligne pour centraliser et améliorer la communication avec la presse et les médias. 
+
+Date de début : 01/10/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 20 000 € 
+
+Chef du Projet : Laura Dupont 
+
+Personnes impliquées : 0 
+
+32. IntraConnect 
+
+Description détaillée : Amélioration de la plateforme intranet pour améliorer la communication et l'engagement des employés au sein de Sisley. 
+
+Date de début : 01/11/2023 
+
+Date de fin : 31/10/2024 
+
+Budget : 12 000 € 
+
+Chef du Projet : Julien Marchand 
+
+Personnes impliquées : 0 
+
+33. Compliance Communication Protocol 
+
+Description détaillée : Établir un protocole de communication en matière de conformité en collaboration avec la Finance. 
+
+Date de début : 01/12/2023 
+
+Date de fin : 30/11/2024 
+
+Budget : 10 000 € 
+
+Chef du Projet : Julien Marchand 
+
+Personnes impliquées : Romain Dupuis (Finance) 
+
+ 

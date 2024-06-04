@@ -1,0 +1,219 @@
+Éric Morel, Directeur des Systèmes d'Information, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "CloudFirst Strategy" 
+
+Description : Mise en œuvre d'une stratégie cloud-first pour optimiser l'infrastructure IT et favoriser l'innovation. 
+
+Date de début : 01/04/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 50 000 € 
+
+Référent : Éric Morel 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Integrated Financial System" 
+
+Description : Collaboration avec la Finance pour développer et mettre en œuvre un système financier intégré améliorant l'efficacité et la précision. 
+
+Personnes sur le projet : Éric Morel (DSI), Marc André (Finance) 
+
+ 
+
+ 
+
+Amandine Petit, Chef de Projet IT, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Agile Evolution" 
+
+Description : Transformation des méthodologies de travail de l'équipe IT vers une approche agile pour une meilleure réactivité et collaboration. 
+
+Date de début : 01/05/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 20 000 € 
+
+Référent : Amandine Petit 
+
+ 
+
+ 
+
+Julien Vasseur, Administrateur Réseaux, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "SecureNet Initiative" 
+
+Description : Renforcement de la sécurité réseau de Sisley à travers la mise en œuvre de technologies avancées et de formations. 
+
+Date de début : 01/06/2023 
+
+Date de fin : 31/05/2024 
+
+Budget : 30 000 € 
+
+Référent : Julien Vasseur 
+
+ 
+
+ 
+
+ 
+
+Sophie Laurent, Architecte de Données, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "Data Mastery" 
+
+Description : Conception d'un écosystème de données intégré pour améliorer l'accessibilité et la qualité des données à travers l'entreprise. 
+
+Date de début : 01/07/2023 
+
+Date de fin : 31/12/2023 
+
+Budget : 25 000 € 
+
+Référent : Sophie Laurent 
+
+ 
+
+ 
+
+Lucas Dubois, Analyste Cybersécurité, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "CyberSafe" 
+
+Description : Développement d'un programme complet de sensibilisation à la cybersécurité pour tous les employés de Sisley. 
+
+Date de début : 01/08/2023 
+
+Date de fin : 31/08/2024 
+
+Budget : 15 000 € 
+
+Référent : Lucas Dubois 
+
+ 
+
+Projet Collaboratif : 
+
+ 
+
+Nom : "Risk and Tech Synergy" 
+
+Description : Collaboration avec la Finance pour intégrer des solutions technologiques avancées dans la gestion des risques financiers. 
+
+Personnes sur le projet : Lucas Dubois (DSI), Émilie Leclerc (Finance) 
+
+ 
+
+ 
+
+Nadia Benoit, Développeuse Web, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "WebRevamp" 
+
+Description : Redéveloppement et modernisation du site web interne pour améliorer l'expérience utilisateur et l'efficacité. 
+
+Date de début : 01/09/2023 
+
+Date de fin : 30/04/2024 
+
+Budget : 18 000 € 
+
+Référent : Nadia Benoit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thomas Girard, Ingénieur Systèmes, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "InfraOptimize" 
+
+Description : Optimisation et mise à niveau de l'infrastructure système pour garantir performance et fiabilité. 
+
+Date de début : 01/10/2023 
+
+Date de fin : 31/03/2024 
+
+Budget : 20 000 € 
+
+Référent : Thomas Girard 
+
+ 
+
+ 
+
+Chloé Martin, Responsable Support IT, DSI 
+
+ 
+
+Projet Individuel : 
+
+ 
+
+Nom : "HelpDesk Hero" 
+
+Description : Amélioration du système de support IT pour une résolution plus rapide des problèmes et une meilleure satisfaction utilisateur. 
+
+Date de début : 01/11/2023 
+
+Date de fin : 31/10/2024 
+
+Budget : 12 000 € 
+
+Référent : Chloé Martin 
+
+ 

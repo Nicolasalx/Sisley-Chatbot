@@ -1,0 +1,28 @@
+Nadia Benoit
+Développeuse Web
+DSI
+
+ANCIENNETÉ
+
+5 ans
+
+EXPÉRIENCE
+
+Bachelor en développement web
+
+DESCRIPTION DU POSTE
+Développement de sites et applications web, UI/UX
+
+PROJETS PRINCIPAUX
+Refonte du site corporate, développement d'applications internes
+
+COMPÉTENCES & EXPERTISE
+HTML/CSS, JavaScript, frameworks modernes
+
+ÉQUIPE
+Designers UI/UX, développeurs front-end et back-end
+
+OUTILS & RESSOURCES
+Visual Studio Code, Git, React/Angular
+
+

@@ -1,0 +1,57 @@
+Rapports de Dépenses par Projet 
+
+ 
+
+Introduction : 
+
+Ce guide vise à informer les employés de Sisley sur la manière d'accéder aux rapports de dépenses par projet dans le cadre des ressources humaines (RH). Il offre des instructions détaillées pour garantir un accès efficace et transparent aux informations nécessaires. 
+
+ 
+
+1. Accéder au Système SAP : 
+
+   Pour obtenir des rapports de dépenses par projet, connectez-vous au système SAP en utilisant vos identifiants SISL'RH. 
+
+ 
+
+2. Naviguer vers la Section "Rapports de Dépenses" : 
+
+  Une fois connecté, accédez à la section dédiée aux rapports de dépenses. Vous pouvez trouver cette section dans le menu principal du système SAP. 
+
+ 
+
+3. Choisir l'Option "Par Projet" : 
+
+ À l'intérieur de la section des rapports de dépenses, sélectionnez l'option spécifique pour générer des rapports par projet. 
+
+ 
+
+4. Sélectionner le Projet Requis : 
+
+Choisissez le projet spécifique pour lequel vous souhaitez obtenir des rapports détaillés. Cela peut se faire en utilisant des filtres ou en saisissant le nom du projet. 
+
+ 
+
+5. Consulter et Télécharger le Rapport : 
+
+Une fois le projet sélectionné, consultez le rapport de dépenses associé. Vous pouvez afficher les détails des dépenses liées à ce projet et télécharger le rapport au besoin. 
+
+ 
+
+6. Contacter le Manager en Cas de Besoin : 
+
+Si vous rencontrez des difficultés ou si vous avez des questions spécifiques concernant les rapports de dépenses par projet, n'hésitez pas à contacter votre manager ou le département RH pour obtenir de l'aide. 
+
+ 
+
+Notes Complémentaires : 
+
+Veillez à suivre les politiques internes de Sisley concernant l'accès et l'utilisation des rapports de dépenses. 
+
+En cas de changements dans les procédures ou les options d'accès, référez-vous aux communications internes ou contactez le support RH. 
+
+ 
+
+N'oubliez pas de consulter régulièrement ces instructions pour rester informé des mises à jour éventuelles. 
+
+ 
