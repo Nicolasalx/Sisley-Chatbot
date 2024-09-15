@@ -90,4 +90,3 @@ So we can ask a question like that:
 
 
 ![image](https://github.com/Nicolasalx/Sisley-Chatbot/assets/114945623/d26fde9b-e263-4cc7-a7d9-a45567a5bd87)
-
